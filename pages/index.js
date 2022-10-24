@@ -20,6 +20,7 @@ export default function Home() {
       <main className={styles.main}>
 
 
+
           <Banner buttonText="View stores nearby" handleOnClick={handleOnBannerBtnClick}/>
 
        </main>
